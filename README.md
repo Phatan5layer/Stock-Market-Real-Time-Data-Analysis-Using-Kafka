@@ -1,4 +1,4 @@
-# Stock-Market-Real-Time-Data-Analysis-Using-Kafka
+# Stock-Market-Real-Time-Data-Analysis-Using-Kafka-Along-With-AWS
 
 My Notion note link of the project: 
 https://magical-xylophone-f23.notion.site/Stock-Market-Real-Time-Data-Analysis-Using-Kafka-End-To-End-Data-Engineering-Project-1-9d9ab4142bc54b83aa09f438af18871d
